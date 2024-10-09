@@ -11,5 +11,7 @@ src/ml_project/config/configuration.py
 src/ml_project/constants/__init__.py
 src/ml_project/entity/__init__.py
 src/ml_project/entity/config_entity.py
+src/ml_project/logging/__init__.py
 src/ml_project/pipeline/__init__.py
 src/ml_project/utils/__init__.py
+src/ml_project/utils/common.py
